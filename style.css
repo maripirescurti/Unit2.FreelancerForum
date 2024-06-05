@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif; 
+}
+
+main {
+  
+}
+
+section {
+  display: flex;
+  align-items: start;
+  justify-content:space-around;
+}
+
+div {
+  display: inline-block;
+  width: 25%;
+  padding: 3%;
+  border: 5px solid black;
+}
+
+h3 {
+  border-bottom: 3px solid black;
+}
+
+ul {
+  /* display: inline-block; */
+  /* border: 1px solid black; */
+  list-style: none;
+  text-align: left;
+}
+
+li {
+  /* border: 1px solid black; */
+  /* list-style: none; */
+  padding: .3em;
+}
